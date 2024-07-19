@@ -68,7 +68,7 @@
             // pictureBox2
             // 
             pictureBox2.Cursor = Cursors.No;
-            pictureBox2.Image = Properties.Resources.Minimalist_Hospital_and_Medical_Health_Logo;
+            //pictureBox2.Image = Properties.Resources.Minimalist_Hospital_and_Medical_Health_Logo;
             pictureBox2.Location = new Point(3, 0);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(244, 227);
@@ -143,7 +143,7 @@
             // pictureBox1
             // 
             pictureBox1.Cursor = Cursors.No;
-            pictureBox1.Image = Properties.Resources._360_F_587743581_HhjQgchmlXNXgiHOlPVYHckJ07JPUMjP;
+            //pictureBox1.Image = Properties.Resources._360_F_587743581_HhjQgchmlXNXgiHOlPVYHckJ07JPUMjP;
             pictureBox1.Location = new Point(266, 18);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(732, 371);
@@ -188,7 +188,7 @@
             // 
             // pictureBox3
             // 
-            pictureBox3.Image = Properties.Resources.logo_facebook_transparent_1;
+            //pictureBox3.Image = Properties.Resources.logo_facebook_transparent_1;
             pictureBox3.Location = new Point(629, 503);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(94, 29);
@@ -208,7 +208,7 @@
             // 
             // pictureBox5
             // 
-            pictureBox5.Image = Properties.Resources.Microsoft_logo_rgb_c_gray_1;
+            //pictureBox5.Image = Properties.Resources.Microsoft_logo_rgb_c_gray_1;
             pictureBox5.Location = new Point(721, 503);
             pictureBox5.Name = "pictureBox5";
             pictureBox5.Size = new Size(81, 29);

@@ -1,0 +1,13 @@
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.csproj.AssemblyReference.cache
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockFarmacy.frmHome.resources
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockFarmacy.FrmAchat.resources
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockFarmacy.frmConnexion.resources
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockFarmacy.frmVente.resources
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.Properties.Resources.resources
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockFarmacy.FrmProduits.resources
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.csproj.GenerateResource.cache
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.AssemblyInfoInputs.cache
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.AssemblyInfo.cs
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Anelka MD\Documents\GestionStockPharmacy\obj\Debug\net8.0-windows\GestionStockPharmacy.sourcelink.json
