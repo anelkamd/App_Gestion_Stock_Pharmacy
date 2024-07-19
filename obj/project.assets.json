@@ -1834,11 +1834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anelka MD\\source\\repos\\GestionStockFarmacy\\GestionStockPharmacy.csproj",
+      "projectUniqueName": "C:\\Users\\Anelka MD\\Documents\\GestionStockPharmacy\\GestionStockPharmacy.csproj",
       "projectName": "GestionStockPharmacy",
-      "projectPath": "C:\\Users\\Anelka MD\\source\\repos\\GestionStockFarmacy\\GestionStockPharmacy.csproj",
+      "projectPath": "C:\\Users\\Anelka MD\\Documents\\GestionStockPharmacy\\GestionStockPharmacy.csproj",
       "packagesPath": "C:\\Users\\Anelka MD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anelka MD\\source\\repos\\GestionStockFarmacy\\obj\\",
+      "outputPath": "C:\\Users\\Anelka MD\\Documents\\GestionStockPharmacy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anelka MD\\AppData\\Roaming\\NuGet\\NuGet.Config",
